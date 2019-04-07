@@ -7,6 +7,7 @@ public class Class1
 	public static void main(String[] args)  throws FileNotFoundException,ArrayIndexOutOfBoundsException
 	{
 	 System.out.println("first line");
+	 System.out.println("changes in file");
 			 
 	 try {
 		int a=9/0;
